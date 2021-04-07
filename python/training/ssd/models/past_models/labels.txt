@@ -1,0 +1,6 @@
+BACKGROUND
+with_mask
+without_mask
+mask_weared_incorrect
+with_full_helmet
+with_open_helmet
